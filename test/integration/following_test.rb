@@ -28,4 +28,3 @@ class FollowPagesTest < Following
     end
   end
 end
-
